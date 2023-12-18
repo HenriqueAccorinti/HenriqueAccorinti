@@ -3,7 +3,7 @@
   </div>
   
   <div align="center">
-    <img align="center" height="180" width="360" src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/53.jpg" />
+    <img align="center" height="300" width="533" src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/53.jpg" />
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >About me</h2>
