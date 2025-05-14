@@ -7,9 +7,9 @@
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >About me</h2>
-    <h4 align="left" >- I am a 4th year Control and Automation Engineering student at the Instituto Mauá de Tecnologia - IMT.</h4>
+    <h4 align="left" >- I am Control and Automation Engineering at the Instituto Mauá de Tecnologia - IMT, with emphasis on data science.</h4>
     <h4 align="left" >- C, C#, Python, HTML, CSS, JavaScript, MatLab, Arduino and Structured Text programming.</h4>
-    <h4 align="left" >- I worked for 17 months as an intern at the university's Research Center.</h4>
+    <h4 align="left" >- I worked for 7 months as a laboratory coordinator at the Intelligent Production Systems Center of the University and 2 years as an intern at the university's Research Center.</h4>
   <h4 align="left" >- Advanced English, Intermediate Spanish and Basic Italian and LIBRAS.</h4>
 <div/>
   
@@ -29,7 +29,7 @@
   </a>
   <br>
 </div>
-  
+ 
 <div style="display: inline_block"><br>
     <h2 align="center" >My Statistics</h2>
 <div/>
